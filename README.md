@@ -4,8 +4,8 @@
 
 ## 1. Team Information
 
-- **Jiya Datta Banik** – PES1UG24CS202  
-- **Sai Lavanya Kanchinadham** – PES1UG24CS214  
+- **Amogh Shetty** – PES1UG24AM034 
+- **Abheek Sen** – PES1UG24AM009
 
 ---
 
